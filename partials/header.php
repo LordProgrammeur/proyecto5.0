@@ -62,7 +62,7 @@
                             </li>
                             <li>
                                 <span class="dropdown-item-text fw-bold">Reserva de Productos</span>
-                                <a class="dropdown-item text-primary" href="https://www.youtube.com/watch?v=tuVideoDeReserva" target="_blank">Ver Video en YouTube</a>
+                                <a class="dropdown-item text-primary" href="https://youtu.be/XnRv-g6lpts" target="_blank">https://youtu.be/XnRv-g6lpts</a>
                             </li>
                         </ul>
                     </li>

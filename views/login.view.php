@@ -36,6 +36,9 @@
                             <label for="password" class="form-label">Contraseña</label>
                             <input type="password" class="form-control" name="password" id="">
                         </div>
+                        <div class="d-grid">
+                            <button style="background-color: #70d0df;" type="submit" class="btn btn-primary">Iniciar Sesión</button>
+                        </div>
                         <div class="my-3">
                             <span>No tienes cuenta? <a href="index.php?controller=Users&action=mostrarFormularioRegistro">Regístrate</a></span><br>
                             <span><a href="index.php?controller=Users&action=mostrarFormularioRecuperacion">Recuperar Contraseña</a></span>
