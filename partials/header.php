@@ -58,7 +58,7 @@
                             </li>
                             <li>
                                 <span class="dropdown-item-text fw-bold">Agendamiento de Citas</span>
-                                <a class="dropdown-item text-primary" href="https://www.youtube.com/watch?v=tuVideoDeAgendamiento" target="_blank">Ver Video en YouTube</a>
+                                <a class="dropdown-item text-primary" href="https://www.youtube.com/watch?v=igiXL4V3lRY&list=PLfD2XmGTbofFsh_B0Ym0mPVC6XkDh7Oy8&index=5" target="_blank">https://www.youtube.com/watch?v=igiXL4V3lRY&list=PLfD2XmGTbofFsh_B0Ym0mPVC6XkDh7Oy8&index=5</a>
                             </li>
                             <li>
                                 <span class="dropdown-item-text fw-bold">Reserva de Productos</span>
